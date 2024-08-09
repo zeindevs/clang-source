@@ -1,0 +1,2 @@
+-I./curl/include
+-std=c++17
